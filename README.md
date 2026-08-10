@@ -16,7 +16,7 @@ contact
 1. Clone the repository:
    git clone https://github.com/markmwangi010806-prog/read-me.git
 2. Change into the project directory:
- `CAR KENYA`
+ `https://CarKenya.com`
 ## Contributing
 Contributions are welcome. To contribute:
 1.Clone the project
