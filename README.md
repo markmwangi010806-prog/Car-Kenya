@@ -1,4 +1,3 @@
-# Car-Kenya
 # Car Kenya
 This is where you find multiple types of cars in one place.For instance you want to buy a family sedan,you just go to the search bar and write the name let's say like Corola Axio, it brings you a variety of models,the year manufactured and the units available.
 ### Features
