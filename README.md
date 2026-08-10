@@ -13,10 +13,7 @@ product
 about
 contact
 ### Installation
-1. Clone the repository:
-   git clone https://github.com/markmwangi010806-prog/read-me.git
-2. Change into the project directory:
- `https://CarKenya.com`
+1.git clone https://github.com/markmwangi010806-prog/read-me.git
 ## Contributing
 Contributions are welcome. To contribute:
 1.Clone the project
